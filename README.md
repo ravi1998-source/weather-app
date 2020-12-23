@@ -3,14 +3,15 @@ Created a simple weather application which will give weather details depending o
 So everytime you reload the page the random values are generated and you will have new values. 
 
 ## Deployment
-[Project](https://ravi1998-source.github.io/Simon-Game/)
-![Alt text](https://github.com/ravi1998-source/Simon-Game/blob/main/ok.png)
+
+![Alt text](https://github.com/ravi1998-source/weather-app/blob/main/Cover.png)
+![Alt text](https://github.com/ravi1998-source/weather-app/blob/main/Result.png)
 
 ## Built With
 * HTML
 * CSS
 * JavaScript
-* jQuery
+* NodeJS
 
 ## Author
 Raviteja K https://github.com/ravi1998-source
